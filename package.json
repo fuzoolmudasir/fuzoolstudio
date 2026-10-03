@@ -1,0 +1,9 @@
+{
+  "name": "fuzool-studio-001",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An image texture playground by Mudasir Basit",
+  "scripts": {
+    "start": "node serve.cjs"
+  }
+}
